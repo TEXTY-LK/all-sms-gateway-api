@@ -1,7 +1,7 @@
-# All SMS Gateway API Client
+# TEXTY SMS Gateway API Client
 
-### Developed by [nTechpark Technologies Ltd.](http://ntechpark.com)
-### Email: contact@ntechpark.com, ntechpark@gmail.com
+### Developed by [TEXTY PVT LTD](http://ntechpark.com)
+### Email: hello@texty.lk
 
 
 ## Send SMS through Android Gateway
