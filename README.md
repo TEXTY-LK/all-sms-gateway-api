@@ -1,6 +1,6 @@
 # TEXTY SMS Gateway API Client
 
-### Developed by [TEXTY PVT LTD](http://ntechpark.com)
+### Developed by [TEXTY PVT LTD](http://www.texty.lk)
 ### Email: hello@texty.lk
 
 
